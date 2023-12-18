@@ -1,4 +1,4 @@
-# Genetic Variations Analysis for Any Gene
+# Genetic Variations Analysis
 
 ## Project Overview
 
