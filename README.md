@@ -13,6 +13,6 @@ This repository contains bioinformatics analysis using Python, focusing on **gen
 ## Code Execution
 
 To run the analysis for any gene, execute the provided Python script:   
-python 1000genomes.py [vcf_file] [sample_info_file]
+'python 1000genomes.py [vcf_file] [sample_info_file]'
 
 
